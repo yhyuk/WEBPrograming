@@ -1,2 +1,3 @@
-# WEB
- HTML, CSS, JS 공부자료
+# WEB Programing
+# HTML, CSS, JS Study materials
+
